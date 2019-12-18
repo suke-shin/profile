@@ -6,7 +6,6 @@
 |----|----|
 |名前|伊藤 慎介|
 |生息地|大阪|
-|Qiita|[@Qsuke-shin](https://qiita.com/Qsuke-shin)
 |ポートフォリオ|[github](https://github.com/suke-shin) (ほぼFlaskのみ)|
 
 # スキル
