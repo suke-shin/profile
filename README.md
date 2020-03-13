@@ -6,7 +6,7 @@
 |----|----|
 |名前|伊藤 慎介|
 |生息地|大阪|
-|ポートフォリオ|[github](https://github.com/suke-shin) (ほぼFlaskのみ)|
+|ポートフォリオ|[github](https://github.com/suke-shin)|
 
 # スキル
 ### ウェブアプリケーション開発 
@@ -23,11 +23,11 @@
 
 ## 言語
 
-Python | HTML | CSS 
+Python | JAVA | HTML | CSS
 
 ## フレームワーク
 
-Flask | Bootstrap | Bulma
+Flask | Spring Boot |
 
 ## その他
 
