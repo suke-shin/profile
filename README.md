@@ -9,36 +9,19 @@
 |ポートフォリオ|[github](https://github.com/suke-shin)|
 
 # スキル
-### ウェブアプリケーション開発 
-- データセットからインタラクティブなデータの視覚化を実現します。
-
-### ウェブスクレイピング - Python
-- ウェブサイトからデータを取得・抽出します。
-- データコレクションを作成します。
-
-### ロゴデザイン
- - ロゴを作成します。
+編集中
 
 # 技術
 
 ## 言語
-
-Python | JAVA | HTML | CSS
+編集中
 
 ## フレームワーク
-
-Flask | Spring Boot |
+編集中
 
 ## その他
 
 Inkscape
 
 # ポートフォリオと経験
-## Screenshots
-### 大阪ひったくりマップ(https://suke-shin.github.io/map-app/build/index.html)
-![top-page](https://raw.githubusercontent.com/suke-shin/profile/image/images/hittakuri-map-top.png)
-### Bookmanager app
-![top-page](https://raw.githubusercontent.com/suke-shin/profile/image/images/bookmanager-top.png)
-![top-page](https://raw.githubusercontent.com/suke-shin/profile/image/images/bookmanager-modal.png)
-### Todo app
-![top-page](https://raw.githubusercontent.com/suke-shin/profile/image/images/todo-app-top.png)
+編集中
